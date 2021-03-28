@@ -1,2 +1,2 @@
-# MXleds2
- MXleds updated to mbed-os 6.9
+# MXleds
+ MXleds AZ3166 setup as an EWM3166 updated to mbed-os 6.9
